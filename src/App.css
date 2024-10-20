@@ -1,0 +1,39 @@
+.App {
+  display:flex;
+  flex-direction: column;
+}
+.container {
+  height:50%;
+  background-color: lightskyblue;
+  height: 20vh;
+  width: 75vh;
+  text-align: center;
+  padding: 30px;
+  border-color: blueviolet;
+  border-top: 50%;
+  margin-left: 25%;
+}
+.header {
+  flex:1;
+  height:200px;
+  background-color: burlywood;
+  height: 20vh;
+  width: 75vh;
+  text-align: center;
+  padding: 30px;
+  border-color: blue;
+  border-top: 50%;
+  margin-left: 25%;
+}
+.new {
+  flex:1;
+  height:200px;
+  background-color: rgb(180, 160, 136);
+  height: 20vh;
+  width: 75vh;
+  text-align: center;
+  padding: 30px;
+  border-color: rgb(50, 3, 94);
+  border-top: 50%;
+  margin-left: 25%;
+}
